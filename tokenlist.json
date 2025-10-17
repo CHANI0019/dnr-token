@@ -1,1 +1,20 @@
+{
+  "name": "Danari Token List",
+  "timestamp": "2025-10-17T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x30eA53dE0B7CDeE5FFF07C8444080D751d25071B",
+      "name": "Danari Token",
+      "symbol": "DNR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CHANI0019/dnr-token/main/images/dnr.png"
+    }
+  ]
+}
 
