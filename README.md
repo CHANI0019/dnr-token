@@ -16,7 +16,7 @@ DNR is the official token of the **DANARI Project**, issued on the Polygon Netwo
 ---
 
 ## 🖼️ Token Logo
-![DNR Logo]((https://github.com/CHANI0019/dnr-token/blob/main/images/DNR.png)
+![DNR Logo](https://github.com/CHANI0019/dnr-token/blob/main/images/DNR.png)
 
 ---
 
